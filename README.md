@@ -1,10 +1,10 @@
-- 👋 Hi, I’m Rennanbernardo08
-- 👀 I’m interested in Porco
-- 🌱 I’m currently learning Nada
-- 💞️ I’m looking to collaborate on Churrasco da Belinha
+- 👋 Oi, eu sou Rennan.
+- 👀 Eu tenho interesse em progamação.
+- 🌱 Eu atualmente estou tentando aprender cada vez mais!
+- 💞️ Eu procuro colaborar com possiveis projetos.
 - 📫 How to reach me ...
-- 😄 Pronouns: Porco
-- ⚡ Fun fact: Sou come porco
+- 😄 Pronouns: Ele/Ela
+- ⚡ Fun fact: Quase dei erro no meu jogo todo. 
 
 <!---
 Rennan08ber/Rennan08ber is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
